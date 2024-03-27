@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/icedevera/icedevera/master/public/ice-logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/icedevera/devfolio-v1/master/public/ice-logo.png" width="100" />
 </div>
 <h1 align="center">
   Ice in my veins 🧊, dev in my name 👨‍💻
